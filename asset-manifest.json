@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paoli22/previsualizador-Markdown/static/css/main.83f4910b.css",
+    "main.js": "/paoli22/previsualizador-Markdown/static/js/main.71b396e8.js",
+    "static/js/453.88508313.chunk.js": "/paoli22/previsualizador-Markdown/static/js/453.88508313.chunk.js",
+    "index.html": "/paoli22/previsualizador-Markdown/index.html",
+    "main.83f4910b.css.map": "/paoli22/previsualizador-Markdown/static/css/main.83f4910b.css.map",
+    "main.71b396e8.js.map": "/paoli22/previsualizador-Markdown/static/js/main.71b396e8.js.map",
+    "453.88508313.chunk.js.map": "/paoli22/previsualizador-Markdown/static/js/453.88508313.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f4910b.css",
+    "static/js/main.71b396e8.js"
+  ]
+}
